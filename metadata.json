@@ -1,0 +1,6 @@
+{
+  "name": "MineForge",
+  "description": "A gamified tech-oriented crypto cloud-mining simulator with real-time balance calculations, mining rig purchases, and simulated wallet withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
